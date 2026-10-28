@@ -1,0 +1,11 @@
+{
+  "spec": "path/or/link",
+  "criteria": [
+    {
+      "id": "AC-1",
+      "outcome": "Observable result in plain language",
+      "test": "path/to/test::name",
+      "passes": false
+    }
+  ]
+}
